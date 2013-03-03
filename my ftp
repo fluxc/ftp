@@ -1,0 +1,19 @@
+<html>
+<head>
+<title>My ftp client</title>
+<style>
+#ftpfrm{
+  width:auto;
+	height:480px;
+	
+}
+</style>
+</head>
+<body>
+<div id="wrapper">
+<iframe id="ftpfrm" src="ftp://user2:password2@89.101.77.144" />
+</div>
+
+</body>
+
+</html>
